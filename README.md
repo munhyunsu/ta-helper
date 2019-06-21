@@ -1,13 +1,12 @@
 # Teach Assistant Helper
 
 ## Programs
-1. Assignment checker with github classroom
+1. Assignment checker with unit test function
 2. Assignment score service by each student
 
 
-
 # Assignment checker
--
+- How to ?
 
 
 # Assignment score service

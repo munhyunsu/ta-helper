@@ -1,5 +1,8 @@
 # Assignment checker
 
-## TA mode
+## TA account
+- Set up unittest code
 
-## Student mode
+## Student account
+- Upload code for unittest pass
+

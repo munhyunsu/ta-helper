@@ -6,7 +6,7 @@
 
 
 # Assignment checker
-- How to ?
+- Using opensource project
 
 
 # Assignment score service
@@ -20,8 +20,6 @@
 - read score from google spreadsheets
 
 
-# Author
-
-## Coded by
+# Coded by
 - LuHa(munhyunsu@gmail.com)
 - 
